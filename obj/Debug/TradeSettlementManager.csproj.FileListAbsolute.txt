@@ -1,0 +1,9 @@
+C:\Users\Tanmay\source\repos\TradeSettlementManager\TradeSettlementManager\bin\Debug\TradeSettlementManager.exe.config
+C:\Users\Tanmay\source\repos\TradeSettlementManager\TradeSettlementManager\bin\Debug\TradeSettlementManager.exe
+C:\Users\Tanmay\source\repos\TradeSettlementManager\TradeSettlementManager\bin\Debug\TradeSettlementManager.pdb
+C:\Users\Tanmay\source\repos\TradeSettlementManager\TradeSettlementManager\obj\Debug\TradeSettlementManager.csproj.AssemblyReference.cache
+C:\Users\Tanmay\source\repos\TradeSettlementManager\TradeSettlementManager\obj\Debug\TradeSettlementManager.Properties.Resources.resources
+C:\Users\Tanmay\source\repos\TradeSettlementManager\TradeSettlementManager\obj\Debug\TradeSettlementManager.csproj.GenerateResource.cache
+C:\Users\Tanmay\source\repos\TradeSettlementManager\TradeSettlementManager\obj\Debug\TradeSettlementManager.csproj.CoreCompileInputs.cache
+C:\Users\Tanmay\source\repos\TradeSettlementManager\TradeSettlementManager\obj\Debug\TradeSettlementManager.exe
+C:\Users\Tanmay\source\repos\TradeSettlementManager\TradeSettlementManager\obj\Debug\TradeSettlementManager.pdb
